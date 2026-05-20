@@ -1,0 +1,31 @@
+{
+    "week": "19-21 May 2026",
+    "days": [
+          {
+                  "day": "TUESDAY",
+                  "date": "19th May",
+                  "vendors": [
+                            { "name": "Lazy Geppetto", "logo": "https://img.caterdesk-static.com/supplier-logo-1534-676c1301-0af1-4af4-b2bd-4dfc0e6b9608.jpg" },
+                            { "name": "Papa-Dum", "logo": "https://img.caterdesk-static.com/supplier-40418b10-0507-def4-d835-160de05f73b5-logo-5a3ba079-6fe7-4826-a861-f9ebe1e0355e.jpg" },
+                            { "name": "K10 Sushi", "logo": "https://img.caterdesk-static.com/supplier-k10sushifetter-logo-a4b029eb-e46a-4e4c-b173-7a0765dfc937.jpg" }
+                  ]
+          },
+          {
+                  "day": "WEDNESDAY",
+                  "date": "20th May",
+                  "vendors": [
+                            { "name": "Bewliehill", "logo": "https://img.caterdesk-static.com/supplier-logo-1647-a5e670fe-04f9-4310-8c5a-27780cdcace7.png" },
+                            { "name": "Satay Street", "logo": "https://img.caterdesk-static.com/supplier-logo-575-fad4cd6e-57bc-4f8f-80c5-9dabd74e8d18.png" },
+                            { "name": "German Doner Kebab", "logo": "https://img.caterdesk-static.com/supplier-logo-4423-f3ee119c-f444-4808-a07a-85f8507fd0d4.jpg" }
+                  ]
+          },
+          {
+                  "day": "THURSDAY",
+                  "date": "21st May",
+                  "vendors": [
+                            { "name": "PICK.YOUR.OWN.", "logo": "https://img.caterdesk-static.com/supplier-logo-1815-2915d899-ee9d-4ff7-888d-6123d3243ff2.jpg" },
+                            { "name": "Baba Ganoush", "logo": "https://img.caterdesk-static.com/supplier-logo-1260-e5eeee35-a53f-4859-8fa9-ff5152b91c7d.jpg" }
+                  ]
+          }
+    ]
+}
