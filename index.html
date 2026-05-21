@@ -30,7 +30,10 @@ html, body {
 /* TOP BAR */
 .top-bar { display: flex; align-items: center; justify-content: space-between; padding: 52px 80px 0; flex-shrink: 0; }
 .kl-logo { height: 26px; }
+.top-right { display: flex; align-items: center; gap: 20px; }
 .week-tag { font-size: 17px; letter-spacing: 0.22em; text-transform: uppercase; color: #ffffff; font-weight: 800; }
+.top-bar-divider { width: 1px; height: 22px; background: rgba(255,255,255,0.15); flex-shrink: 0; }
+.feedr-logo-top { height: 22px; width: auto; opacity: 0.65; }
 
 /* DAY HERO */
 .day-hero { padding: 58px 80px 0; flex-shrink: 0; }
@@ -41,22 +44,13 @@ html, body {
   transition: opacity 0.45s 0.1s ease, transform 0.45s 0.1s ease;
 }
 .slide.active .eyebrow { opacity: 1; transform: translateX(0); }
-.day-name-row { display: flex; align-items: flex-end; }
 .day-name {
   font-family: 'Bebas Neue', sans-serif; font-size: 230px; line-height: 0.87;
   color: #fff; letter-spacing: 0.01em; white-space: nowrap;
-  flex-shrink: 0; transform-origin: left center;
+  display: inline-block; transform-origin: left center;
   opacity: 0; transition: opacity 0.45s 0.06s ease;
 }
 .slide.active .day-name { opacity: 1; }
-.day-feedr-side {
-  flex: 1; display: flex; flex-direction: column; align-items: flex-end;
-  justify-content: flex-end; padding-bottom: 18px; padding-left: 20px; gap: 8px;
-  opacity: 0; transition: opacity 0.45s 0.22s ease;
-}
-.slide.active .day-feedr-side { opacity: 1; }
-.day-feedr-on { font-size: 13px; letter-spacing: 0.2em; text-transform: uppercase; color: rgba(255,255,255,0.4); font-weight: 700; }
-.feedr-logo-day { height: 48px; width: auto; }
 .day-date {
   font-size: 34px; font-weight: 800; color: var(--accent); margin-top: 20px;
   letter-spacing: -0.02em; opacity: 0; transform: translateX(-14px);
@@ -76,7 +70,7 @@ html, body {
 
 /* VENDORS */
 .vendors-section { flex: 1; display: flex; flex-direction: column; padding: 40px 80px 0; min-height: 0; }
-.vendors-label { font-size: 20px; letter-spacing: 0.22em; text-transform: uppercase; color: rgba(255,255,255,0.5); font-weight: 700; margin-bottom: 40px; flex-shrink: 0; }
+.vendors-label { font-size: 20px; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff; font-weight: 800; margin-bottom: 40px; flex-shrink: 0; text-align: center; }
 .feedr-logo { height: 68px; width: auto; opacity: 1; display: inline-block; flex-shrink: 0; }
 .vendors-grid { flex: 1; display: flex; align-items: center; justify-content: center; gap: 36px; min-height: 0; }
 
@@ -195,21 +189,15 @@ function buildSlides() {
       `<div class="dot${di===idx?' on':''}"></div>`).join('');
 
     slide.innerHTML = `
-      <div class="top-bar">${LOGO_SVG}<span class="week-tag">Week of ${WEEK_LABEL}</span></div>
+      <div class="top-bar">${LOGO_SVG}<div class="top-right"><span class="week-tag">Week of ${WEEK_LABEL}</span><div class="top-bar-divider"></div><svg class="feedr-logo-top" viewBox="0 0 1823 432" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M682.803 208.21H623.393V409.732H573.715V208.21H528.133V164.954H573.715V123.733C573.715 97.6096 581.397 77.0846 596.762 62.1569C612.126 47.2292 631.417 39.7656 654.635 39.7656C669.317 39.7656 678.876 41.4621 683.316 44.8545V87.6016C678.194 85.566 671.194 84.5482 662.317 84.5482C651.733 84.5482 642.514 87.7715 634.661 94.2172C627.149 100.324 623.393 111.011 623.393 126.278V164.954H682.803V208.21ZM781.26 262.153H915.957C915.274 243.832 909.128 228.905 897.519 217.37C885.911 205.496 869.522 199.559 848.353 199.559C829.232 199.559 813.526 205.835 801.235 218.388C788.943 230.601 782.284 245.189 781.26 262.153ZM923.127 325.764L964.611 340.013C957.441 362.744 944.125 381.403 924.663 395.991C905.202 410.241 881.643 417.365 853.986 417.365C819.501 417.365 790.138 405.661 765.896 382.252C741.996 358.504 730.045 326.612 730.045 286.58C730.045 249.26 741.654 218.388 764.871 193.961C788.089 169.533 815.746 157.32 847.841 157.32C885.057 157.32 914.079 169.025 934.907 192.434C955.734 215.504 966.147 246.547 966.147 285.562C966.147 291.668 965.807 296.757 965.123 300.828H779.724C780.066 322.541 787.236 340.352 801.235 354.263C815.575 368.172 833.159 375.127 853.986 375.127C889.153 375.127 912.2 358.673 923.127 325.764ZM1084.45 262.153H1219.15C1218.46 243.832 1212.32 228.905 1200.71 217.37C1189.1 205.496 1172.71 199.559 1151.54 199.559C1132.42 199.559 1116.72 205.835 1104.43 218.388C1092.13 230.601 1085.47 245.189 1084.45 262.153ZM1226.32 325.764L1267.81 340.013C1260.64 362.744 1247.32 381.403 1227.85 395.991C1208.39 410.241 1184.84 417.365 1157.17 417.365C1122.7 417.365 1093.33 405.661 1069.09 382.252C1045.19 358.504 1033.24 326.612 1033.24 286.58C1033.24 249.26 1044.84 218.388 1068.06 193.961C1091.28 169.533 1118.94 157.32 1151.03 157.32C1188.24 157.32 1217.26 169.025 1238.1 192.434C1258.92 215.504 1269.34 246.547 1269.34 285.562C1269.34 291.668 1269 296.757 1268.31 300.828H1082.91C1083.26 322.541 1090.43 340.352 1104.43 354.263C1118.77 368.172 1136.34 375.127 1157.17 375.127C1192.35 375.127 1215.39 358.673 1226.32 325.764ZM1385.08 286.58C1385.08 312.363 1391.4 333.398 1404.03 349.683C1417.01 365.967 1434.76 374.109 1457.29 374.109C1478.8 374.109 1496.05 365.797 1509.02 349.173C1522 332.55 1528.49 311.345 1528.49 285.562C1528.49 260.117 1522.17 239.591 1509.54 223.986C1496.9 208.38 1479.66 200.577 1457.81 200.577C1435.96 200.577 1418.37 208.549 1405.05 224.494C1391.74 240.44 1385.08 261.135 1385.08 286.58ZM1529 376.654V372.582C1522.51 385.135 1512.61 395.653 1499.29 404.134C1486.31 412.276 1470.78 416.346 1452.69 416.346C1417.51 416.346 1389.18 404.134 1367.66 379.707C1346.5 354.941 1335.91 323.899 1335.91 286.58C1335.91 250.957 1346.85 220.763 1368.7 195.997C1390.54 170.89 1418.54 158.338 1452.69 158.338C1472.83 158.338 1489.22 162.41 1501.85 170.552C1514.48 178.355 1523.19 188.024 1527.97 199.559V41.2923H1575.6V364.441C1575.6 381.064 1576.45 396.161 1578.17 409.732H1531.56C1529.85 400.232 1529 389.207 1529 376.654ZM1819.84 162.41V213.298C1812.67 212.281 1805.68 211.772 1798.84 211.772C1753.78 211.772 1731.23 236.878 1731.23 287.089V409.732H1683.1V164.954H1730.21V207.701C1745.24 176.488 1769.82 160.883 1803.96 160.883C1809.43 160.883 1814.72 161.392 1819.84 162.41Z" fill="white"/><path d="M32.3451 139.242C13.1562 174.221 0 209.737 0 241.554C0 296.396 17.5787 340.974 46.2792 373.263L120.133 223.486L32.3451 139.242Z" fill="white"/><path d="M366.393 241.547C366.393 162.027 284.607 59.3814 230.326 0L120.133 223.48L297.995 394.16C339.674 361.679 366.393 309.385 366.393 241.547Z" fill="#61C685"/><path d="M46.2812 373.261C79.8383 411.014 128.667 431.912 183.202 431.912C226.688 431.912 266.58 418.645 297.997 394.158L120.133 223.484L46.2812 373.261Z" fill="#3d8c57"/></svg></div></div>
       <div class="day-hero">
         <div class="eyebrow">What's being served</div>
-        <div class="day-name-row">
-          <div class="day-name">${day.day}</div>
-          <div class="day-feedr-side">
-            <span class="day-feedr-on">on</span>
-            ${FEEDR_LOGO_DAY_SVG}
-          </div>
-        </div>
+        <div class="day-name">${day.day}</div>
         <div class="day-date">${day.date} &nbsp;·&nbsp; Lunch</div>
       </div>
       <div class="divider-wrap"><div class="divider"></div></div>
       <div class="vendors-section">
-        <div class="vendors-label">Here's your vendors</div>
+        <div class="vendors-label">Here's your vendors to choose from this week</div>
         <div class="vendors-grid count-${n}">${vendorHTML}</div>
       </div>
       <div class="bottom-bar">
@@ -230,7 +218,7 @@ function buildSlides() {
 }
 
 function fitDayNames() {
-  const maxW = 600;
+  const maxW = 1080 - 160;
   document.querySelectorAll('.day-name').forEach(el => {
     el.style.fontSize = '230px';
     const w = el.getBoundingClientRect().width;
