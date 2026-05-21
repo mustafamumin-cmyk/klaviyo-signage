@@ -52,12 +52,12 @@ html, body {
 }
 .slide.active .day-name { opacity: 1; }
 .day-feedr-below {
-  display: flex; align-items: center; gap: 16px;
+  display: flex; align-items: center; justify-content: center; gap: 16px;
   margin-top: 12px;
-  opacity: 0; transform: translateX(-14px);
+  opacity: 0; transform: translateY(10px);
   transition: opacity 0.45s 0.2s ease, transform 0.45s 0.2s ease;
 }
-.slide.active .day-feedr-below { opacity: 1; transform: translateX(0); }
+.slide.active .day-feedr-below { opacity: 1; transform: translateY(0); }
 .day-feedr-on-text {
   font-family: 'Plus Jakarta Sans', sans-serif;
   font-size: 32px; letter-spacing: 0.06em; text-transform: lowercase;
