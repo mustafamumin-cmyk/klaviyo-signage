@@ -67,8 +67,8 @@ html, body {
 
 /* VENDORS */
 .vendors-section { flex: 1; display: flex; flex-direction: column; padding: 40px 80px 0; min-height: 0; }
-.vendors-label { font-size: 16px; letter-spacing: 0.24em; text-transform: uppercase; color: #ffffff; font-weight: 800; margin-bottom: 40px; flex-shrink: 0; display: flex; align-items: center; gap: 14px; }
-.feedr-logo { height: 24px; width: auto; opacity: 1; display: inline-block; flex-shrink: 0; }
+.vendors-label { font-size: 28px; letter-spacing: 0.12em; text-transform: uppercase; color: #ffffff; font-weight: 800; margin-bottom: 40px; flex-shrink: 0; display: flex; align-items: center; gap: 18px; }
+.feedr-logo { height: 42px; width: auto; opacity: 1; display: inline-block; flex-shrink: 0; }
 .vendors-grid { flex: 1; display: flex; align-items: center; justify-content: center; gap: 36px; min-height: 0; }
 
 /* VENDOR CARD */
@@ -192,7 +192,7 @@ function buildSlides() {
       </div>
       <div class="divider-wrap"><div class="divider"></div></div>
       <div class="vendors-section">
-        <div class="vendors-label"><span>Today's vendors via</span>${FEEDR_LOGO_SVG}</div>
+        <div class="vendors-label"><span>${day.day} on</span>${FEEDR_LOGO_SVG}</div>
         <div class="vendors-grid count-${n}">${vendorHTML}</div>
       </div>
       <div class="bottom-bar">
