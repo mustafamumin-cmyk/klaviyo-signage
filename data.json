@@ -1,53 +1,57 @@
 {
-  "week": "21–23 May 2026",
+  "week": "26–28 May 2026",
   "days": [
     {
       "day": "TUESDAY",
-      "date": "21st May",
+      "date": "27th May",
       "vendors": [
         {
-          "name": "Lazy Geppetto",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-1534-676c1301-0af1-4af4-b2bd-4dfc0e6b9608.jpg"
+          "name": "Garbanzos Falafel & Salad Bar",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-509-2609babb-9cbe-4e05-a25a-75dfa2990087.jpg"
         },
         {
-          "name": "Papa-Dum",
-          "logo": "https://img.caterdesk-static.com/supplier-40418b10-0507-def4-d835-160de05f73b5-logo-5a3ba079-6fe7-4826-a861-f9ebe1e0355e.jpg"
+          "name": "Via Emilia Shoreditch",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-4429-28373bdb-d334-40c2-95b3-fe1d30f5781c.jpg"
         },
         {
-          "name": "K10 Sushi",
-          "logo": "https://img.caterdesk-static.com/supplier-k10sushifetter-logo-a4b029eb-e46a-4e4c-b173-7a0765dfc937.jpg"
+          "name": "Koshari Street",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-1251-7fa9543e-cf30-48e3-ad2e-764590e63a3f.jpg"
         }
       ]
     },
     {
       "day": "WEDNESDAY",
-      "date": "22nd May",
+      "date": "28th May",
       "vendors": [
         {
-          "name": "Bewliehill",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-1647-a5e670fe-04f9-4310-8c5a-27780cdcace7.png"
+          "name": "Pali Kitchen",
+          "logo": "https://img.caterdesk-static.com/supplier-7e76b48b-e8a5-29bd-b22e-f11fe6fb9fac-logo-58b0337d-6875-4690-b54e-8d7ae29fcf7a.png"
         },
         {
-          "name": "Satay Street",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-575-fad4cd6e-57bc-4f8f-80c5-9dabd74e8d18.png"
+          "name": "Zambrero (Cannon St)",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-4275-0e927347-b41c-4270-974d-ac1d05cc0b42.jpg"
         },
         {
-          "name": "German Doner Kebab (Old St, Holborn)",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-4423-f3ee119c-f444-4808-a07a-85f8507fd0d4.jpg"
+          "name": "Olive + Squash",
+          "logo": "https://img.caterdesk-static.com/legacy/a5ffjjj9tmwexovasoex/1490027036.png"
         }
       ]
     },
     {
       "day": "THURSDAY",
-      "date": "23rd May",
+      "date": "29th May",
       "vendors": [
         {
-          "name": "PICK.YOUR.OWN.",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-1815-2915d899-ee9d-4ff7-888d-6123d3243ff2.jpg"
+          "name": "Rice Guys",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-1583-2b603ce2-40da-47af-a573-eb9dce71bce7.png"
         },
         {
-          "name": "Baba Ganoush",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-1260-e5eeee35-a53f-4859-8fa9-ff5152b91c7d.jpg"
+          "name": "Daddy Donkey Mexican Grill",
+          "logo": "https://img.caterdesk-static.com/supplier-1de67a4c-715c-5f43-0dc6-a73b708e9d2c-logo-63a60664-226f-4f60-bb40-16db364bc89d.png"
+        },
+        {
+          "name": "Urban Greens",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-286-eaf2964e-cd75-4965-a1f9-bb2eb307dd38.png"
         }
       ]
     }
