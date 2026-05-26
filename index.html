@@ -191,7 +191,7 @@ function buildSlides() {
       <div class="vendor-card">
         <div class="logo-shell">
           <div class="logo-ring"></div>
-          <img class="logo-img" src="${v.logo}" alt="${v.name}"
+          <img class="logo-img" src="${v.logo}" alt="${v.name}" style="background:${v.bg||'#1C1C1C'}"
                onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
           <div class="logo-fallback">${initials(v.name)}</div>
         </div>
