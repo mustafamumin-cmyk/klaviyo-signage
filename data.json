@@ -51,7 +51,8 @@
         },
         {
           "name": "Urban Greens",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-286-eaf2964e-cd75-4965-a1f9-bb2eb307dd38.png"
+          "logo": "https://img.caterdesk-static.com/supplier-logo-286-eaf2964e-cd75-4965-a1f9-bb2eb307dd38.png",
+          "bg": "#ffffff"
         }
       ]
     }
