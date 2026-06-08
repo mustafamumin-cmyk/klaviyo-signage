@@ -1,57 +1,57 @@
 {
-  "week": "2–4 Jun 2026",
+  "week": "9–11 Jun 2026",
   "days": [
     {
       "day": "TUESDAY",
-      "date": "2nd June",
+      "date": "9th June",
       "vendors": [
         {
-          "name": "Salad Project",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-389-760d5a15-34fd-48cc-9a54-6ed655b4006e.png"
+          "name": "Love Food",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-526-8a2df0f8-6dd1-4c68-8075-20dcde04df39.png"
         },
         {
-          "name": "SushiDog",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-239-8b137728-3a95-4d05-830b-71a997c48a03.png"
+          "name": "Assenheims 56",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-538-c3b9750b-38e4-4b15-9799-813193d99bfe.jpg"
         },
         {
-          "name": "Polo Bar",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-824-88e7fe8b-c531-4130-bf95-d3f08d924442.png"
+          "name": "Pure",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-512-c7129c93-5c95-4e26-849e-001ca3e6460c.jpg"
         }
       ]
     },
     {
       "day": "WEDNESDAY",
-      "date": "3rd June",
+      "date": "10th June",
       "vendors": [
         {
-          "name": "The Salad Kitchen",
-          "logo": "https://mustafamumin-cmyk.github.io/klaviyo-signage/6a8075_8b06ede8d2334488a8bad0205ea6df3c~mv2.png"
+          "name": "Eat Activ",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-374-a22ea1b8-457a-41bd-9ec3-8ba5a99dbd2b.png"
         },
         {
-          "name": "Little Banh Banh",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-4396-0789d699-13a9-4585-9c9e-1b9d765451a3.jpg"
+          "name": "Kleftiko",
+          "logo": "https://img.caterdesk-static.com/supplier-kleftiko-logo-d3985c81-be75-46ad-9d8a-3de833c47f61.png"
         },
         {
-          "name": "Spagbowl",
-          "logo": "https://img.caterdesk-static.com/supplier-spagbowl-logo-0fed0cfd-7857-4faa-a28f-2443f63aedb7.jpg"
+          "name": "Gourmet Burger Kitchen",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-4375-6955915c-b698-4672-b77b-8c2f1e351ce9.png"
         }
       ]
     },
     {
       "day": "THURSDAY",
-      "date": "4th June",
+      "date": "11th June",
       "vendors": [
         {
-          "name": "Abokado",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-399-9af13c28-cf27-4646-bacc-a7e2df7896d4.jpg"
+          "name": "Mangio Pasta & Bottega",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-335-0c1fe568-d8e7-4f46-8899-c868cb8bb07d.png"
         },
         {
-          "name": "The Real Greek",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-1998-db2a627c-4cfa-4eba-a517-0da2b91a3021.jpg"
+          "name": "Urban Food Court",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-582-45c39224-609d-46bc-a52e-8157f492fd6c.jpg"
         },
         {
-          "name": "YACOB's",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-1994-d733dda1-8077-465f-887b-8b7f2c6d544a.jpg"
+          "name": "Magdalene",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-576-577b8c8b-840c-4047-8c39-125308a68c80.jpg"
         }
       ]
     }
