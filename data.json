@@ -1,13 +1,21 @@
 {
-  "week": "16–18 Jun 2026",
+  "week": "16–18 June 2026",
   "days": [
     {
       "day": "TUESDAY",
       "date": "16th June",
       "vendors": [
         {
+          "name": "Itsu",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-1498-da85a620-e0cc-4e3d-b093-234c34ddc90b.jpg"
+        },
+        {
           "name": "Tossed",
           "logo": "https://img.caterdesk-static.com/supplier-7ba8cc0f-fc7f-3cd3-e731-dcfc7fd9c743-logo-ee500c71-aca8-48ec-8af3-4ac470b9dc3b.jpg"
+        },
+        {
+          "name": "Kammoon",
+          "logo": "https://img.caterdesk-static.com/supplier-kammoon-logo-3e190107-00a7-4be1-bbcf-0a9e95505c8c.png"
         }
       ]
     },
@@ -16,8 +24,16 @@
       "date": "17th June",
       "vendors": [
         {
+          "name": "People Pleaser Salad",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-1800-709a7be6-779f-4837-9c42-a926d0cab257.jpg"
+        },
+        {
           "name": "Gerry's Hot Subs",
           "logo": "https://img.caterdesk-static.com/supplier-logo-1777-e5d9d029-a32d-49fd-ae9a-c204b46286f5.jpg"
+        },
+        {
+          "name": "Satay Street",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-575-fad4cd6e-57bc-4f8f-80c5-9dabd74e8d18.png"
         }
       ]
     },
@@ -26,8 +42,16 @@
       "date": "18th June",
       "vendors": [
         {
+          "name": "Bonata",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-747-4ed9ca48-b35d-46c7-9c53-f79f0e5eb2c1.jpg"
+        },
+        {
           "name": "Tortilla London",
           "logo": "https://img.caterdesk-static.com/supplier-logo-554-db5dbea7-e48b-4721-bd1d-6efd4fac1b1f.jpg"
+        },
+        {
+          "name": "Yolk",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-216-5f673ee4-7148-48c0-a6ec-61a490b4ec9a.jpg"
         }
       ]
     }
