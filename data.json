@@ -1,57 +1,33 @@
 {
-  "week": "9–11 Jun 2026",
+  "week": "16–18 Jun 2026",
   "days": [
     {
       "day": "TUESDAY",
-      "date": "9th June",
+      "date": "16th June",
       "vendors": [
         {
-          "name": "Love Food",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-526-8a2df0f8-6dd1-4c68-8075-20dcde04df39.png"
-        },
-        {
-          "name": "Assenheims 56",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-538-c3b9750b-38e4-4b15-9799-813193d99bfe.jpg"
-        },
-        {
-          "name": "Pure",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-512-c7129c93-5c95-4e26-849e-001ca3e6460c.jpg"
+          "name": "Tossed",
+          "logo": "https://img.caterdesk-static.com/supplier-7ba8cc0f-fc7f-3cd3-e731-dcfc7fd9c743-logo-ee500c71-aca8-48ec-8af3-4ac470b9dc3b.jpg"
         }
       ]
     },
     {
       "day": "WEDNESDAY",
-      "date": "10th June",
+      "date": "17th June",
       "vendors": [
         {
-          "name": "Eat Activ",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-374-a22ea1b8-457a-41bd-9ec3-8ba5a99dbd2b.png"
-        },
-        {
-          "name": "Kleftiko",
-          "logo": "https://img.caterdesk-static.com/supplier-kleftiko-logo-d3985c81-be75-46ad-9d8a-3de833c47f61.png"
-        },
-        {
-          "name": "Gourmet Burger Kitchen",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-4375-6955915c-b698-4672-b77b-8c2f1e351ce9.png"
+          "name": "Gerry's Hot Subs",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-1777-e5d9d029-a32d-49fd-ae9a-c204b46286f5.jpg"
         }
       ]
     },
     {
       "day": "THURSDAY",
-      "date": "11th June",
+      "date": "18th June",
       "vendors": [
         {
-          "name": "Mangio Pasta & Bottega",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-335-0c1fe568-d8e7-4f46-8899-c868cb8bb07d.png"
-        },
-        {
-          "name": "Urban Food Court",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-582-45c39224-609d-46bc-a52e-8157f492fd6c.jpg"
-        },
-        {
-          "name": "Magdalene",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-576-577b8c8b-840c-4047-8c39-125308a68c80.jpg"
+          "name": "Tortilla London",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-554-db5dbea7-e48b-4721-bd1d-6efd4fac1b1f.jpg"
         }
       ]
     }
