@@ -1,57 +1,57 @@
 {
-  "week": "16–18 June 2026",
+  "week": "23–25 June 2026",
   "days": [
     {
       "day": "TUESDAY",
-      "date": "16th June",
+      "date": "23rd June",
       "vendors": [
         {
-          "name": "Itsu",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-1498-da85a620-e0cc-4e3d-b093-234c34ddc90b.jpg"
+          "name": "Bread & Truffle",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-1420-814eff22-9750-41d4-8781-e18a1006467d.jpg"
         },
         {
-          "name": "Tossed",
-          "logo": "https://img.caterdesk-static.com/supplier-7ba8cc0f-fc7f-3cd3-e731-dcfc7fd9c743-logo-ee500c71-aca8-48ec-8af3-4ac470b9dc3b.jpg"
+          "name": "Island Poke",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-152-b06aa16c-8f62-48cf-8e9f-8eded10b9973.jpg"
         },
         {
-          "name": "Kammoon",
-          "logo": "https://img.caterdesk-static.com/supplier-kammoon-logo-3e190107-00a7-4be1-bbcf-0a9e95505c8c.png"
+          "name": "Remedy Kitchen",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-1995-0c43ff23-bb06-4d56-b175-a94977a3bbc6.jpg"
         }
       ]
     },
     {
       "day": "WEDNESDAY",
-      "date": "17th June",
+      "date": "24th June",
       "vendors": [
         {
-          "name": "People Pleaser Salad",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-1800-709a7be6-779f-4837-9c42-a926d0cab257.jpg"
+          "name": "Baba Ganoush",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-1260-e5eeee35-a53f-4859-8fa9-ff5152b91c7d.jpg"
         },
         {
-          "name": "Gerry's Hot Subs",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-1777-e5d9d029-a32d-49fd-ae9a-c204b46286f5.jpg"
+          "name": "Rice Guys",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-1583-2b603ce2-40da-47af-a573-eb9dce71bce7.png"
         },
         {
-          "name": "Satay Street",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-575-fad4cd6e-57bc-4f8f-80c5-9dabd74e8d18.png"
+          "name": "Which Wich Fleet Street",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-3561-919d8594-dc8a-430c-9845-e6609b15a375.jpg"
         }
       ]
     },
     {
       "day": "THURSDAY",
-      "date": "18th June",
+      "date": "25th June",
       "vendors": [
         {
-          "name": "Bonata",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-747-4ed9ca48-b35d-46c7-9c53-f79f0e5eb2c1.jpg"
-        },
-        {
-          "name": "Tortilla London",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-554-db5dbea7-e48b-4721-bd1d-6efd4fac1b1f.jpg"
+          "name": "Bagel Factory LND/ EDN",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-441-5beaccea-2bf1-4a90-b300-351e60cfd2b2.jpg"
         },
         {
           "name": "Yolk",
           "logo": "https://img.caterdesk-static.com/supplier-logo-216-5f673ee4-7148-48c0-a6ec-61a490b4ec9a.jpg"
+        },
+        {
+          "name": "Thurner's",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-613-fa40e71c-9df0-42dc-a38c-1c724fd4bf07.png"
         }
       ]
     }
