@@ -25,7 +25,8 @@
       "vendors": [
         {
           "name": "The Salad Kitchen",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-391-236e91da-e466-49cd-be50-f3205aba5d42.png"
+          "logo": "https://img.caterdesk-static.com/supplier-logo-391-236e91da-e466-49cd-be50-f3205aba5d42.png",
+          "bg": "#FFFFFF"
         },
         {
           "name": "Papa-Dum",
@@ -43,7 +44,8 @@
       "vendors": [
         {
           "name": "atis",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-4460-2dec6450-67ef-4ad7-a29f-b0c1e8460268.png"
+          "logo": "https://img.caterdesk-static.com/supplier-logo-4460-2dec6450-67ef-4ad7-a29f-b0c1e8460268.png",
+          "bg": "#FFFFFF"
         },
         {
           "name": "German Doner Kebab (Old St, Holborn)",
