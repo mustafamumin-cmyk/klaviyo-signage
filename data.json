@@ -1,60 +1,31 @@
 {
-  "week": "30 Jun–2 Jul 2026",
+  "week": "7–9 July 2026",
   "days": [
     {
       "day": "TUESDAY",
-      "date": "30th June",
+      "date": "7th July",
       "vendors": [
-        {
-          "name": "PICK.YOUR.OWN.",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-1815-2915d899-ee9d-4ff7-888d-6123d3243ff2.jpg"
-        },
-        {
-          "name": "Coco di Mama",
-          "logo": "https://img.caterdesk-static.com/supplier-coco-logo-d3463e1d-52ce-4bea-b700-5b579f779592.png"
-        },
-        {
-          "name": "Garbanzos Falafel & Salad Bar",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-509-2609babb-9cbe-4e05-a25a-75dfa2990087.jpg"
-        }
+        { "name": "Urban Greens", "logo": "https://img.caterdesk-static.com/supplier-logo-286-eaf2964e-cd75-4965-a1f9-bb2eb307dd38.png" },
+        { "name": "Little Banh Banh", "logo": "https://img.caterdesk-static.com/supplier-logo-4396-0789d699-13a9-4585-9c9e-1b9d765451a3.jpg" },
+        { "name": "Pure", "logo": "https://img.caterdesk-static.com/supplier-logo-512-c7129c93-5c95-4e26-849e-001ca3e6460c.jpg" }
       ]
     },
     {
       "day": "WEDNESDAY",
-      "date": "1st July",
+      "date": "8th July",
       "vendors": [
-        {
-          "name": "The Salad Kitchen",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-391-236e91da-e466-49cd-be50-f3205aba5d42.png",
-          "bg": "#FFFFFF"
-        },
-        {
-          "name": "Papa-Dum",
-          "logo": "https://img.caterdesk-static.com/supplier-40418b10-0507-def4-d835-160de05f73b5-logo-5a3ba079-6fe7-4826-a861-f9ebe1e0355e.jpg"
-        },
-        {
-          "name": "Finsbury Square Garden",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-4594-0dfb6780-48ff-42d8-a4b9-f548a7f818b4.png"
-        }
+        { "name": "Bewliehill", "logo": "https://img.caterdesk-static.com/supplier-logo-1647-a5e670fe-04f9-4310-8c5a-27780cdcace7.png" },
+        { "name": "SushiDog", "logo": "https://img.caterdesk-static.com/supplier-logo-239-8b137728-3a95-4d05-830b-71a997c48a03.png" },
+        { "name": "Lazy Geppetto", "logo": "https://img.caterdesk-static.com/supplier-logo-1534-676c1301-0af1-4af4-b2bd-4dfc0e6b9608.jpg" }
       ]
     },
     {
       "day": "THURSDAY",
-      "date": "2nd July",
+      "date": "9th July",
       "vendors": [
-        {
-          "name": "atis",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-4460-2dec6450-67ef-4ad7-a29f-b0c1e8460268.png",
-          "bg": "#FFFFFF"
-        },
-        {
-          "name": "German Doner Kebab (Old St, Holborn)",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-4423-f3ee119c-f444-4808-a07a-85f8507fd0d4.jpg"
-        },
-        {
-          "name": "Kaana",
-          "logo": "https://img.caterdesk-static.com/supplier-logo-4503-b831b273-16ef-4ad7-aa11-796023fa93e3.png"
-        }
+        { "name": "Love Food", "logo": "https://img.caterdesk-static.com/supplier-logo-526-8a2df0f8-6dd1-4c68-8075-20dcde04df39.png" },
+        { "name": "Assenheims 56", "logo": "https://img.caterdesk-static.com/supplier-logo-538-c3b9750b-38e4-4b15-9799-813193d99bfe.jpg" },
+        { "name": "Koshari Street", "logo": "https://img.caterdesk-static.com/supplier-logo-1251-7fa9543e-cf30-48e3-ad2e-764590e63a3f.jpg" }
       ]
     }
   ]
