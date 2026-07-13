@@ -1,31 +1,31 @@
 {
-  "week": "7–9 July 2026",
+  "week": "14–16 July 2026",
   "days": [
     {
       "day": "TUESDAY",
-      "date": "7th July",
+      "date": "14th July",
       "vendors": [
-        { "name": "Urban Greens", "logo": "https://img.caterdesk-static.com/supplier-logo-286-eaf2964e-cd75-4965-a1f9-bb2eb307dd38.png" },
-        { "name": "Little Banh Banh", "logo": "https://img.caterdesk-static.com/supplier-logo-4396-0789d699-13a9-4585-9c9e-1b9d765451a3.jpg" },
-        { "name": "Pure", "logo": "https://img.caterdesk-static.com/supplier-logo-512-c7129c93-5c95-4e26-849e-001ca3e6460c.jpg" }
+        { "name": "Olive + Squash", "logo": "https://img.caterdesk-static.com/legacy/a5ffjjj9tmwexovasoex/1490027036.png" },
+        { "name": "Pali Kitchen", "logo": "https://img.caterdesk-static.com/supplier-7e76b48b-e8a5-29bd-b22e-f11fe6fb9fac-logo-58b0337d-6875-4690-b54e-8d7ae29fcf7a.png" },
+        { "name": "Slim Chickens", "logo": "https://img.caterdesk-static.com/supplier-logo-2057-daee8bbc-b059-4c80-83d0-fd958900c170.jpg" }
       ]
     },
     {
       "day": "WEDNESDAY",
-      "date": "8th July",
+      "date": "15th July",
       "vendors": [
-        { "name": "Bewliehill", "logo": "https://img.caterdesk-static.com/supplier-logo-1647-a5e670fe-04f9-4310-8c5a-27780cdcace7.png" },
-        { "name": "SushiDog", "logo": "https://img.caterdesk-static.com/supplier-logo-239-8b137728-3a95-4d05-830b-71a997c48a03.png" },
-        { "name": "Lazy Geppetto", "logo": "https://img.caterdesk-static.com/supplier-logo-1534-676c1301-0af1-4af4-b2bd-4dfc0e6b9608.jpg" }
+        { "name": "Salad Project", "logo": "https://img.caterdesk-static.com/supplier-logo-389-760d5a15-34fd-48cc-9a54-6ed655b4006e.png" },
+        { "name": "Marugame Udon", "logo": "https://img.caterdesk-static.com/supplier-logo-705-482357f8-653b-4731-91a6-d9906a05a338.png" },
+        { "name": "Zambrero (Cannon St)", "logo": "https://img.caterdesk-static.com/supplier-logo-4275-0e927347-b41c-4270-974d-ac1d05cc0b42.jpg" }
       ]
     },
     {
       "day": "THURSDAY",
-      "date": "9th July",
+      "date": "16th July",
       "vendors": [
-        { "name": "Love Food", "logo": "https://img.caterdesk-static.com/supplier-logo-526-8a2df0f8-6dd1-4c68-8075-20dcde04df39.png" },
-        { "name": "Assenheims 56", "logo": "https://img.caterdesk-static.com/supplier-logo-538-c3b9750b-38e4-4b15-9799-813193d99bfe.jpg" },
-        { "name": "Koshari Street", "logo": "https://img.caterdesk-static.com/supplier-logo-1251-7fa9543e-cf30-48e3-ad2e-764590e63a3f.jpg" }
+        { "name": "YACOB's", "logo": "https://img.caterdesk-static.com/supplier-logo-1994-d733dda1-8077-465f-887b-8b7f2c6d544a.jpg" },
+        { "name": "Abokado", "logo": "https://img.caterdesk-static.com/supplier-logo-399-9af13c28-cf27-4646-bacc-a7e2df7896d4.jpg" },
+        { "name": "Urban Food Court", "logo": "https://img.caterdesk-static.com/supplier-logo-582-45c39224-609d-46bc-a52e-8157f492fd6c.jpg" }
       ]
     }
   ]
