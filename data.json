@@ -1,31 +1,31 @@
 {
-  "week": "14–16 July 2026",
+  "week": "21–23 July 2026",
   "days": [
     {
       "day": "TUESDAY",
-      "date": "14th July",
+      "date": "21st July",
       "vendors": [
-        { "name": "Olive + Squash", "logo": "https://img.caterdesk-static.com/legacy/a5ffjjj9tmwexovasoex/1490027036.png" },
-        { "name": "Pali Kitchen", "logo": "https://img.caterdesk-static.com/supplier-7e76b48b-e8a5-29bd-b22e-f11fe6fb9fac-logo-58b0337d-6875-4690-b54e-8d7ae29fcf7a.png" },
-        { "name": "Slim Chickens", "logo": "https://img.caterdesk-static.com/supplier-logo-2057-daee8bbc-b059-4c80-83d0-fd958900c170.jpg" }
+        { "name": "Polo Bar", "logo": "https://img.caterdesk-static.com/supplier-logo-824-88e7fe8b-c531-4130-bf95-d3f08d924442.png" },
+        { "name": "Yolk", "logo": "https://img.caterdesk-static.com/supplier-logo-216-5f673ee4-7148-48c0-a6ec-61a490b4ec9a.jpg" },
+        { "name": "atis", "logo": "https://img.caterdesk-static.com/supplier-logo-4460-2dec6450-67ef-4ad7-a29f-b0c1e8460268.png" }
       ]
     },
     {
       "day": "WEDNESDAY",
-      "date": "15th July",
+      "date": "22nd July",
       "vendors": [
-        { "name": "Salad Project", "logo": "https://img.caterdesk-static.com/supplier-logo-389-760d5a15-34fd-48cc-9a54-6ed655b4006e.png" },
-        { "name": "Marugame Udon", "logo": "https://img.caterdesk-static.com/supplier-logo-705-482357f8-653b-4731-91a6-d9906a05a338.png" },
-        { "name": "Zambrero (Cannon St)", "logo": "https://img.caterdesk-static.com/supplier-logo-4275-0e927347-b41c-4270-974d-ac1d05cc0b42.jpg" }
+        { "name": "Bonata", "logo": "https://img.caterdesk-static.com/supplier-logo-747-4ed9ca48-b35d-46c7-9c53-f79f0e5eb2c1.jpg" },
+        { "name": "Eat Activ", "logo": "https://img.caterdesk-static.com/supplier-logo-374-a22ea1b8-457a-41bd-9ec3-8ba5a99dbd2b.png" },
+        { "name": "Cafe Route", "logo": "https://img.caterdesk-static.com/legacy/anna-c/7e5fb1c7-ea27-61aa-f910-22cdd5eeb66e-logo-1524216741055.jpg" }
       ]
     },
     {
       "day": "THURSDAY",
-      "date": "16th July",
+      "date": "23rd July",
       "vendors": [
-        { "name": "YACOB's", "logo": "https://img.caterdesk-static.com/supplier-logo-1994-d733dda1-8077-465f-887b-8b7f2c6d544a.jpg" },
-        { "name": "Abokado", "logo": "https://img.caterdesk-static.com/supplier-logo-399-9af13c28-cf27-4646-bacc-a7e2df7896d4.jpg" },
-        { "name": "Urban Food Court", "logo": "https://img.caterdesk-static.com/supplier-logo-582-45c39224-609d-46bc-a52e-8157f492fd6c.jpg" }
+        { "name": "Baba Ganoush", "logo": "https://img.caterdesk-static.com/supplier-logo-1260-e5eeee35-a53f-4859-8fa9-ff5152b91c7d.jpg" },
+        { "name": "The Real Greek", "logo": "https://img.caterdesk-static.com/supplier-logo-1998-db2a627c-4cfa-4eba-a517-0da2b91a3021.jpg" },
+        { "name": "Tortilla London", "logo": "https://img.caterdesk-static.com/supplier-logo-554-db5dbea7-e48b-4721-bd1d-6efd4fac1b1f.jpg" }
       ]
     }
   ]
