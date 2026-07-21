@@ -5,27 +5,56 @@
       "day": "TUESDAY",
       "date": "21st July",
       "vendors": [
-        { "name": "Polo Bar", "logo": "https://img.caterdesk-static.com/supplier-logo-824-88e7fe8b-c531-4130-bf95-d3f08d924442.png" },
-        { "name": "Yolk", "logo": "https://img.caterdesk-static.com/supplier-logo-216-5f673ee4-7148-48c0-a6ec-61a490b4ec9a.jpg" },
-        { "name": "atis", "logo": "https://img.caterdesk-static.com/supplier-logo-4460-2dec6450-67ef-4ad7-a29f-b0c1e8460268.png" }
+        {
+          "name": "Polo Bar",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-824-88e7fe8b-c531-4130-bf95-d3f08d924442.png"
+        },
+        {
+          "name": "Yolk",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-216-5f673ee4-7148-48c0-a6ec-61a490b4ec9a.jpg"
+        },
+        {
+          "name": "atis",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-4460-2dec6450-67ef-4ad7-a29f-b0c1e8460268.png",
+          "bg": "#ffffff"
+        }
       ]
     },
     {
       "day": "WEDNESDAY",
       "date": "22nd July",
       "vendors": [
-        { "name": "Bonata", "logo": "https://img.caterdesk-static.com/supplier-logo-747-4ed9ca48-b35d-46c7-9c53-f79f0e5eb2c1.jpg" },
-        { "name": "Eat Activ", "logo": "https://img.caterdesk-static.com/supplier-logo-374-a22ea1b8-457a-41bd-9ec3-8ba5a99dbd2b.png" },
-        { "name": "Cafe Route", "logo": "https://img.caterdesk-static.com/legacy/anna-c/7e5fb1c7-ea27-61aa-f910-22cdd5eeb66e-logo-1524216741055.jpg" }
+        {
+          "name": "Bonata",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-747-4ed9ca48-b35d-46c7-9c53-f79f0e5eb2c1.jpg"
+        },
+        {
+          "name": "Eat Activ",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-374-a22ea1b8-457a-41bd-9ec3-8ba5a99dbd2b.png",
+          "bg": "#ffffff"
+        },
+        {
+          "name": "Cafe Route",
+          "logo": "https://img.caterdesk-static.com/legacy/anna-c/7e5fb1c7-ea27-61aa-f910-22cdd5eeb66e-logo-1524216741055.jpg"
+        }
       ]
     },
     {
       "day": "THURSDAY",
       "date": "23rd July",
       "vendors": [
-        { "name": "Baba Ganoush", "logo": "https://img.caterdesk-static.com/supplier-logo-1260-e5eeee35-a53f-4859-8fa9-ff5152b91c7d.jpg" },
-        { "name": "The Real Greek", "logo": "https://img.caterdesk-static.com/supplier-logo-1998-db2a627c-4cfa-4eba-a517-0da2b91a3021.jpg" },
-        { "name": "Tortilla London", "logo": "https://img.caterdesk-static.com/supplier-logo-554-db5dbea7-e48b-4721-bd1d-6efd4fac1b1f.jpg" }
+        {
+          "name": "Baba Ganoush",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-1260-e5eeee35-a53f-4859-8fa9-ff5152b91c7d.jpg"
+        },
+        {
+          "name": "The Real Greek",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-1998-db2a627c-4cfa-4eba-a517-0da2b91a3021.jpg"
+        },
+        {
+          "name": "Tortilla London",
+          "logo": "https://img.caterdesk-static.com/supplier-logo-554-db5dbea7-e48b-4721-bd1d-6efd4fac1b1f.jpg"
+        }
       ]
     }
   ]
